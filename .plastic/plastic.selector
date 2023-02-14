@@ -1,0 +1,4 @@
+repository "LAB1_JayCarleBrodeur@DenZCegepOrg@cloud"
+  path "/"
+    br "/main"
+    co "/main"
